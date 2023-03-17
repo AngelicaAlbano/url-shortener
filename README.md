@@ -15,3 +15,5 @@ A implementar:
 1) Exigir autenticação
 2) Refatorar userId para UUID
 3) Permitir remoção de hash
+4) Adicionar Swagger
+5) Adicionar testes
